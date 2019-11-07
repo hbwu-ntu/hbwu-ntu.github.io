@@ -22,17 +22,17 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Publications
 
-- **Towards Unsupervised Speech Recognition and Synthesis<br/>with Quantized Speech Representation Learning**<br/>
+- **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Tao Tu <sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee<br/>
     *arXiv preprint (in submission)*<br/>
     [ [pdf](https://arxiv.org/abs/1910.12740) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
 
-- **Sequence-to-sequence Automatic Speech Recognition<br/>with Word Embedding Regularization and Fused Decoding**<br/>
+- **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
     <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee<br/>
     *arXiv preprint (in submission)*<br/>
     [ [pdf](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
 
-- **Towards Scene Understanding: Unsupervised Monocular Depth Estimation<br/>with Semantic-Aware Representation**<br/>
+- **Towards Scene Understanding: Unsupervised Monocular Depth Estimation with Semantic-Aware Representation**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Po-Yi Chen <sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang<br/>
     *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*<br/>
     [ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
