@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
+
 # About Me
 
 Hi! I'm Alexander Haojan(浩然) Liu, an M.S. student at National Taiwan University. 
-Currently, my research interest is in the area of machine learning and speech processing under the supervision of Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
+Currently, my research interest is in the area of machine learning and speech processing under the supervision of Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).<br/>
 In addition, I'm also interested in computer vision with research experiences in representation learning (supervised by Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html)).
 
 [Publications](#Publications) / [Teaching](#Teaching) / [Honors](#Honors) / [Projects](#Projects) / [CV](files/cv.pdf)
@@ -22,56 +23,39 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Publications
 
-- **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**
-    
-    <u>Alexander H. Liu</u><sub>(co-first)</sub>, Tao Tu<sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee
-    
-    *arXiv preprint (in submission)*
-    
+- **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**<br/>
+    <u>Alexander H. Liu</u><sub>(co-first)</sub>, Tao Tu<sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee<br/>
+    *arXiv preprint (in submission)*<br/>
     [ [pdf](https://arxiv.org/abs/1910.12740) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
 
-- **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**
-    
-    <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee
-    
-    *arXiv preprint (in submission)*
-    
+- **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
+    <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee<br/>
+    *arXiv preprint (in submission)*<br/>
     [ [pdf](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
 
-- **Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation**
-    
-    <u>Alexander H. Liu</u><sub>(co-first)</sub>, Po-Yi Chen<sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang
-    
-    *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
-    
+- **Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation**<br/>
+    <u>Alexander H. Liu</u><sub>(co-first)</sub>, Po-Yi Chen<sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang<br/>
+    *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*<br/>
     [ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
     
-- **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**
-    
-    <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee
-    
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*
-    
+- **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**<br/>
+    <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee<br/>
+    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*<br/>
     [ [pdf](https://arxiv.org/abs/1811.00787) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
     
-- **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation**
-    
-    <u>Alexander H. Liu</u>, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang
-    
-    *In Advances in Neural Information Processing Systems (NeurIPS) 2018*
-    
+- **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation**<br/>
+    <u>Alexander H. Liu</u>, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang<br/>
+    *In Advances in Neural Information Processing Systems (NeurIPS) 2018*<br/>
     [ [pdf](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) | [code](https://github.com/Alexander-H-Liu/UFDN) | [supplementary & reviews](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation)  ]
-
-
 
 
 # Teaching
 
-- Teaching Assistant of [Fundamentals of Speech Signal Processing](http://speech.ee.ntu.edu.tw/DSP2018Autumn/), *NTU CSIE, Fall 2018 & Spring 2019*
-- Teaching Assistant of [Deep Learning for Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html), *NTU EE, Fall 2018*
-- Teaching Assistant of [Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html), *NTU EE, Spring 2018*
-- Teaching Assistant of [Deep Learning for Computer Vision](), *NTU GICE, Fall 2018*
-- Teaching Assistant of [Advanced Deep Learning](), *NTU CSIE, Spring 2018*
+- Teaching Assistant of [Fundamentals of Speech Signal Processing](http://speech.ee.ntu.edu.tw/DSP2018Autumn/)<br/>*NTU CSIE, Fall 2018 & Spring 2019*
+- Teaching Assistant of [Deep Learning for Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)<br/>*NTU EE, Fall 2018*
+- Teaching Assistant of [Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)<br/>*NTU EE, Spring 2018*
+- Teaching Assistant of [Deep Learning for Computer Vision]()<br/>*NTU GICE, Fall 2018*
+- Teaching Assistant of [Advanced Deep Learning]()<br/>*NTU CSIE, Spring 2018*
 
 <!-- 
 # Talks
@@ -92,5 +76,5 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Projects
 
-- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  | <iframe src="https://ghbtns.com/github-btn.html?user=alexander-h-liu&repo=end-to-end-asr-pytorch&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>]
+- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  | [![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)]
 - Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
