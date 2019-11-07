@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Alexander Liu"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 
 # About Me
@@ -24,28 +23,43 @@ In addition, I'm also interested in computer vision with research experiences in
 # Publications
 
 - **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**
+    
     <u>Alexander H. Liu</u><sub>(co-first)</sub>, Tao Tu<sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee
+    
     *arXiv preprint (in submission)*
+    
     [ [pdf](https://arxiv.org/abs/1910.12740) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
 
 - **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**
+    
     <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee
+    
     *arXiv preprint (in submission)*
+    
     [ [pdf](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
 
 - **Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation**
+    
     <u>Alexander H. Liu</u><sub>(co-first)</sub>, Po-Yi Chen<sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang
+    
     *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
+    
     [ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
     
 - **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**
+    
     <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee
+    
     *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*
+    
     [ [pdf](https://arxiv.org/abs/1811.00787) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
     
 - **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation**
+    
     <u>Alexander H. Liu</u>, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang
+    
     *In Advances in Neural Information Processing Systems (NeurIPS) 2018*
+    
     [ [pdf](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) | [code](https://github.com/Alexander-H-Liu/UFDN) | [supplementary & reviews](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation)  ]
 
 
@@ -78,5 +92,5 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Projects
 
-- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) | <iframe src="https://ghbtns.com/github-btn.html?user=alexander-h-liu&repo=end-to-end-asr-pytorch&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>]
+- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  | <iframe src="https://ghbtns.com/github-btn.html?user=alexander-h-liu&repo=end-to-end-asr-pytorch&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>]
 - Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
