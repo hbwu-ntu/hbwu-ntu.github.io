@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Alexander H. Liu"
 title_separator          : "-"
-name                     : &name "Alexander H. Liu 劉浩然"
+name                     : &name "Alexander H. Liu"
 description              : &description "personal description"
 url                      : https://alexander-h-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander H. Liu"
+  name             : "Alexander H. Liu 劉浩然"
   avatar           : "profile.png"
   bio              : "M.S. student at National Taiwan University"
   location         : "Taiwan"
