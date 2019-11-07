@@ -16,7 +16,7 @@ Hi! I'm Alexander Haojan(浩然) Liu, an M.S. student at National Taiwan Univers
 Currently, my research interest is in the area of machine learning and speech processing under the supervision of Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).<br/>
 In addition, I'm also interested in computer vision with research experiences in representation learning (supervised by Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html)).
 
-[Publications](#Publications) / [Teaching](#Teaching) / [Honors](#Honors) / [Projects](#Projects) / [CV](files/cv.pdf)
+[Publications](#Publications) / [Teaching](#Teaching) / [Honors](#Honors) / [Side Projects](#Projects) / [CV](files/cv.pdf)
 <!-- 
 / [Talks](#Talks) 
 -->
@@ -66,15 +66,15 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Honors
 
-- Advanced Speech Technologies Scholarship - *NTU EECS 2020*
-- Verizon Media AI Scholarship - *Verizon Media, Taiwan 2020*
-- Best Student Speaker Award - *3rd Augmented Intelligence and Interaction (AII) Workshop 2020*
-- 1st Price, Formosa Spoken QA Challenge - *Ministry of Science and Technology, Taiwan 2020*
-- Excellent Teaching Assistant Award - *NTU CSIE Dept. 2019*
-- Technology Scholarship - *Foxconn Education Foundation 2019*
-- Presidential Awards - *NTU CSIE 2017/2018*
+- Advanced Speech Technologies Scholarship, *NTU EECS 2020*
+- Verizon Media AI Scholarship, *Verizon Media, Taiwan 2020*
+- Best Student Speaker Award, *3rd Augmented Intelligence and Interaction (AII) Workshop 2020*
+- 1st Price, Formosa Spoken QA Challenge, *Ministry of Science and Technology, Taiwan 2020*
+- Excellent Teaching Assistant Award, *NTU CSIE Dept. 2019*
+- Technology Scholarship, *Foxconn Education Foundation 2019*
+- Presidential Awards, *NTU CSIE 2017/2018*
 
 # Projects
 
-- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  | [![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)]
+- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) | [![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) ]
 - Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
