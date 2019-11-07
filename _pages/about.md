@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-
 # About Me
 
 Hi! I'm Alexander Haojan(浩然) Liu, an M.S. student at National Taiwan University. 
@@ -51,11 +50,11 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Teaching
 
-- Teaching Assistant of [Fundamentals of Speech Signal Processing](http://speech.ee.ntu.edu.tw/DSP2018Autumn/)<br/>*NTU CSIE, Fall 2018 & Spring 2019*
-- Teaching Assistant of [Deep Learning for Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)<br/>*NTU EE, Fall 2018*
-- Teaching Assistant of [Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)<br/>*NTU EE, Spring 2018*
-- Teaching Assistant of [Deep Learning for Computer Vision]()<br/>*NTU GICE, Fall 2018*
-- Teaching Assistant of [Advanced Deep Learning]()<br/>*NTU CSIE, Spring 2018*
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Teaching Assistant of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Teaching Assistant of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Teaching Assistant of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Teaching Assistant of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Teaching Assistant of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
 
 <!-- 
 # Talks
@@ -66,15 +65,16 @@ In addition, I'm also interested in computer vision with research experiences in
 
 # Honors
 
-- Advanced Speech Technologies Scholarship, *NTU EECS 2020*
-- Verizon Media AI Scholarship, *Verizon Media, Taiwan 2020*
-- Best Student Speaker Award, *3rd Augmented Intelligence and Interaction (AII) Workshop 2020*
-- 1st Price, Formosa Spoken QA Challenge, *Ministry of Science and Technology, Taiwan 2020*
-- Excellent Teaching Assistant Award, *NTU CSIE Dept. 2019*
-- Technology Scholarship, *Foxconn Education Foundation 2019*
-- Presidential Awards, *NTU CSIE 2017/2018*
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Verizon Media AI Scholarship</span> <span style="flex:  0 0 auto"><i>Verizon Media, Taiwan 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Best Student Speaker Award</span> <span style="flex:  0 0 auto"><i>3rd AII Workshop 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">1st Price, Formosa Spoken QA Challenge</span> <span style="flex:  0 0 auto"><i>Ministry of Science and Technology, Taiwan 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Excellent Teaching Assistant Award</span> <span style="flex:  0 0 auto"><i>NTU CSIE Dept. 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Technology Scholarship</span> <span style="flex:  0 0 auto"><i>Foxconn Education Foundation 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between;"><span style="flex: 0 0 auto">Presidential Awards</span> <span style="flex:  0 0 auto"><i>NTU CSIE 2017/2018</i></span></p>
+
 
 # Projects
 
-- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) | [![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) ]
+- Open Sourced End-to-end Speech Recognition System [ [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) | ![GitHub stars](https://img.shields.io/github/stars/Alexander-H-Liu/End-to-end-ASR-Pytorch?style=social&label=Star&maxAge=2592000) ]
 - Mandarin Spoken QA System [ *[demo](http://deeplearning.website:8080/?fbclid=IwAR1G6mdk34Q9vA29KhKyn7AFNblR2iV3c2N21H7AbKXS9EN9VuFgO8vIrBE)* ]
