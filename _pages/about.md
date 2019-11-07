@@ -15,7 +15,7 @@ Hi! I'm Alexander Haojan(浩然) Liu, an M.S. student at National Taiwan Univers
 Currently, my research interest is in the area of machine learning and speech processing under the supervision of Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).<br/>
 In addition, I'm also interested in computer vision with research experiences in representation learning (supervised by Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html)).
 
-[Publications](#Publications) / [Teaching](#Teaching) / [Honors](#Honors) / [Side Projects](#Projects) / [CV](files/cv.pdf)
+[Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
 / [Talks](#Talks) 
 -->
