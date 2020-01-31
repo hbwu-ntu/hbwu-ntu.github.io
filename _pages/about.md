@@ -24,12 +24,12 @@ In addition, I'm also interested in computer vision with research experiences in
 
 - **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Tao Tu <sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee<br/>
-    *arXiv preprint (in submission)*<br/>
+    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
     [ [pdf](https://arxiv.org/abs/1910.12729) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
 
 - **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
     <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee<br/>
-    *arXiv preprint (in submission)*<br/>
+    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
     [ [pdf](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
 
 - **Towards Scene Understanding: Unsupervised Monocular Depth Estimation with Semantic-Aware Representation**<br/>
