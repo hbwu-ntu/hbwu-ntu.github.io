@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: ""
@@ -11,9 +12,13 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Alexander Haojan(浩然) Liu, an M.S. student at National Taiwan University. 
-Currently, my research interest is in the area of machine learning and speech processing under the supervision of Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).<br/>
-In addition, I'm also interested in computer vision with research experiences in representation learning (supervised by Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html)).
+Hi! I'm Alexander Haojan(浩然) Liu, I recieved my M.S. and B.S. degrees  in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
+I was a member of Speech Processing Lab working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
+In addition, I also worked with Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) during undergraduate years in computer vision and representation learning.
+
+<!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
+Currently, my research interest focus on  
+Before joining MIT,-->
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
@@ -21,6 +26,18 @@ In addition, I'm also interested in computer vision with research experiences in
 -->
 
 # Publications
+
+<!---
+- **Semi-supervised Learning for Multi-speaker Text-to-speech Synthesis Using Discrete Speech Representation**<br/>
+    Tao Tu, Yuan-Jui Chen, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
+    *Under review*<br/>
+    [ [pdf](https://arxiv.org/abs/2005.08024) | [demo](https://ttaoretw.github.io/multispkr-semi-tts/demo.html ) ]
+-->
+
+- **Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation**<br/>
+    Shun-Po Chuang, Tzu-Wei Sung, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
+    *Annual Meeting of the Association for Computational Linguistics (ACL) 2020*<br/>
+    [ [pdf](https://arxiv.org/abs/2005.10678) | [presentation](https://slideslive.com/38929303/worse-wer-but-better-bleu-leveraging-word-embedding-as-intermediate-in-multitask-endtoend-speech-translation ) ]
 
 - **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**<br/>
     <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Tao Tu <sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee<br/>
