@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexander H. Liu<br/>劉浩然"
   avatar           : "profile.png"
-  bio              : "M.S. student<br/>at National Taiwan University"
+  bio              : "Ph.D. student<br/>at Massachusetts Institute of Technology"
   location         : "Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LIiCDa0AAAAJ&hl=en"
-  email            :
+  email            : "alexhliu@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
