@@ -11,13 +11,14 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Alexander Haojan(浩然) Liu, I recieved my M.S. and B.S. degrees  in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
-I was a member of Speech Processing Lab working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
-In addition, I also worked with Prof. [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) during undergraduate years in computer vision and representation learning.
+I am Alexander Haojan Liu, a first-year Ph.D. student in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+I'm a member of the Spoken Language System (SLS) Group leading by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
+My research interests are in the field of machine learning, natural language processing (speech processing in particular), and computer vision.
+Currently, my work focuses on representation learning with the goal of developing techniques towards unsupervised learning.
 
-<!--- a Ph.D. student in Computer Science at MIT advised by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
-Currently, my research interest focus on  
-Before joining MIT,-->
+Before joining MIT, I received my M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
+I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
+In addition, I also worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) during my undergraduate years in computer vision and representation learning.
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
@@ -26,12 +27,22 @@ Before joining MIT,-->
 
 # Publications
 
-<!---
+
+- **Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies**<br/>
+    <u>Alexander H. Liu</u>, Yu-An Chung, James Glass<br/>
+    *Under review*<br/>
+    [ [pdf](https://arxiv.org/abs/2011.00406) | [code](https://github.com/Alexander-H-Liu/NPC) ]
+<!-- 
+- **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Layer-wise Transfer Learning**<br/>
+    Heng-Jui Chang, <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee<br/>
+    *SLT 2021*<br/>
+    [ [pdf](https://arxiv.org/abs/2005.01972) ]
+-->
+
 - **Semi-supervised Learning for Multi-speaker Text-to-speech Synthesis Using Discrete Speech Representation**<br/>
     Tao Tu, Yuan-Jui Chen, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
-    *Under review*<br/>
+    *Interspeech 2020*<br/>
     [ [pdf](https://arxiv.org/abs/2005.08024) | [demo](https://ttaoretw.github.io/multispkr-semi-tts/demo.html ) ]
--->
 
 - **Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation**<br/>
     Shun-Po Chuang, Tzu-Wei Sung, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
