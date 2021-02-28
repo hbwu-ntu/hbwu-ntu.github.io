@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification.
+Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification. I also like photography very much (please see my [homepage](https://www.mepai.me/frankwu)).
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
