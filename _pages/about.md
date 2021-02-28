@@ -11,14 +11,7 @@ redirect_from:
 
 # About Me
 
-I am Alexander Haojan Liu, a first-year Ph.D. student in Computer Science at MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
-I'm a member of the Spoken Language System (SLS) Group leading by [Dr. James Glass](http://people.csail.mit.edu/jrg/). 
-My research interests are in the field of machine learning, natural language processing (speech processing in particular), and computer vision.
-Currently, my work focuses on representation learning with the goal of developing techniques towards unsupervised learning.
-
-Before joining MIT, I received my M.S. and B.S. degrees in Computer Science & Information Engineering (CSIE) from National Taiwan University (NTU).
-I was a member of the Speech Processing Lab working with [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) in the area of machine learning and speech processing.
-In addition, I also worked with [Yu-Chiang Frank Wang](http://vllab.ee.ntu.edu.tw/members.html) during my undergraduate years in computer vision and representation learning.
+Hi! I'm Haibin Wu. I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification.
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
