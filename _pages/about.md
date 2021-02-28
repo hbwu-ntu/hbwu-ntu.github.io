@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification.
+Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification.
 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
 <!-- 
@@ -20,11 +20,25 @@ Hi! I'm Haibin Wu. I am currently a Ph.D. student at the Graduate Institute of C
 
 # Publications
 
+- **Multiview Learning for Subsurface Defect Detection in Composite Products: A Challenge on Thermographic Data Analysis**<br/>
+    <u>Haibin Wu</u>, K Zheng, S Sfarra, Y Liu, Y Yao<br/>
+    *IEEE Transactions on Industrial Informatics*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949715) ]
 
-- **Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies**<br/>
-    <u>Alexander H. Liu</u>, Yu-An Chung, James Glass<br/>
-    *Under review*<br/>
-    [ [pdf](https://arxiv.org/abs/2011.00406) | [code](https://github.com/Alexander-H-Liu/NPC) ]
+- **Physically Consistent Soft-Sensor Development Using Sequence-to-Sequence Neural Networks**<br/>
+    Cheng-Hung Chou <sub>(co-first)</sub>, <u>Haibin Wu</u> <sub>(co-first)</sub>, Jia-Lin Kang, David Shan-Hill Wong, Yuan Yao, etc.<br/>
+    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
+    
+- **Adversarial defense for automatic speaker verification by cascaded self-supervised learning models**<br/>
+    <u>Haibin Wu</u>, Xu Li, Andy T. Liu, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
+    *ICASSP 2021*<br/>
+    [ [pdf](https://arxiv.org/pdf/2102.07047.pdf) ]
+    
+- **Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning**<br/>
+    <u>Haibin Wu</u>, AT Liu, H Lee<br/>
+    *Interspeech 2020*<br/>
+    [ [pdf](https://arxiv.org/pdf/2006.03214.pdf) | [presentation](https://www.youtube.com/watch?v=k81atCYWpzg&t=666s) ]
 
 <!-- 
 - **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Layer-wise Transfer Learning**<br/>
@@ -33,40 +47,36 @@ Hi! I'm Haibin Wu. I am currently a Ph.D. student at the Graduate Institute of C
     [ [pdf](https://arxiv.org/abs/2005.01972) ]
 -->
 
-- **Semi-supervised Learning for Multi-speaker Text-to-speech Synthesis Using Discrete Speech Representation**<br/>
-    Tao Tu, Yuan-Jui Chen, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
-    *Interspeech 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/2005.08024) | [demo](https://ttaoretw.github.io/multispkr-semi-tts/demo.html ) ]
+- **Defense against adversarial attacks on spoofing countermeasures of ASV**<br/>
+    <u>Haibin Wu</u>, Songxiang Liu, Helen Meng, Hung-yi Lee<br/>
+    *ICASSP 2020*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053643) ]
 
-- **Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation**<br/>
-    Shun-Po Chuang, Tzu-Wei Sung, <u>Alexander H. Liu</u>, Hung-yi Lee<br/>
-    *Annual Meeting of the Association for Computational Linguistics (ACL) 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/2005.10678) | [presentation](https://slideslive.com/38929303/worse-wer-but-better-bleu-leveraging-word-embedding-as-intermediate-in-multitask-endtoend-speech-translation ) ]
 
-- **Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning**<br/>
-    <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Tao Tu <sub>(co-first)</sub>,  Hung-yi Lee, Lin-shan Lee<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/1910.12729) | [demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html) ]
-
-- **Sequence-to-sequence Automatic Speech Recognition with Word Embedding Regularization and Fused Decoding**<br/>
-    <u>Alexander H. Liu</u>, Tzu-Wei Sung, Shun-Po Chuang, Hung-yi Lee, Lin-shan Lee<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
-    [ [pdf](https://arxiv.org/abs/1910.12740) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
-
-- **Towards Scene Understanding: Unsupervised Monocular Depth Estimation with Semantic-Aware Representation**<br/>
-    <u>Alexander H. Liu</u> <sub>(co-first)</sub>, Po-Yi Chen <sub>(co-first)</sub>, Yen-Cheng Liu, Yu-Chiang Frank Wang<br/>
+- **Simplified Granger causality map for data-driven root cause diagnosis of process disturbances**<br/>
+    Y Liu, HS Chen, <u>Haibin Wu</u>, Y Dai, Y Yao, Z Yan<br/>
     *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*<br/>
     [ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
     
-- **Adversarial Training of End-to-end Speech Recognition Using a Criticizing Language Model**<br/>
-    <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*<br/>
-    [ [pdf](https://arxiv.org/abs/1811.00787) | [code](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) ]
+- **Adversarial attacks on spoofing countermeasures of automatic speaker verification**<br/>
+    S Liu, <u>H Wu</u>, H Lee, H Meng<br/>
+    *ASRU 2019*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003763) ]
     
-- **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation**<br/>
-    <u>Alexander H. Liu</u>, Yen-Cheng Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang<br/>
-    *In Advances in Neural Information Processing Systems (NeurIPS) 2018*<br/>
-    [ [pdf](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation.pdf) | [code](https://github.com/Alexander-H-Liu/UFDN) | [supplementary & reviews](http://papers.nips.cc/paper/7525-a-unified-feature-disentangler-for-multi-domain-image-translation-and-manipulation)  ]
+- **Process Monitoring Using a Sequence to Sequence Model**<br/>
+    <u>H Wu</u>, CH Chou, Y Yao, DSH Wong, Y Liu<br/>
+    *DDCLS 2019*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8908933) ]
+    
+- **Hyperparameter Tricks in Multi-Agent Reinforcement Learning: An Empirical Study**<br/>
+    J Hu, <u>H Wu</u>, SA Harding, S Liao<br/>
+    *Under review. Submitted to UAI.*<br/>
+    [ [pdf](https://arxiv.org/pdf/2102.03479.pdf) ]
+
+- **Hyperparameter Tricks in Multi-Agent Reinforcement Learning: An Empirical Study**<br/>
+    Jian Hu, Seth Austin Harding, <u>Haibin Wu</u>, Siyue Hu, Shih-wei Liao<br/>
+    *Under review. Submitted to AAMAS.*<br/>
+    [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
 
 # Teaching
