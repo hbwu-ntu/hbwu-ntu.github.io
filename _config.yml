@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander H. Liu"
+title                    : "Haibin Wu"
 title_separator          : "-"
-name                     : &name "Alexander H. Liu"
+name                     : &name "Haibin Wu"
 description              : &description "personal description"
-url                      : https://alexander-h-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://haibinwu666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alexander-h-liu/alexander-h-liu.github.io"
+repository               : "haibinwu666/haibinwu666.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander H. Liu<br/>劉浩然"
+  name             : "Haibin Wu"
   avatar           : "profile.png"
   bio              : "Ph.D. student<br/>at Massachusetts Institute of Technology"
   location         : "Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=LIiCDa0AAAAJ&hl=en"
-  email            : "alexhliu@mit.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=-bB-WHEAAAAJ&hl=zh-TW"
+  email            : "f07921092@ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Alexander-H-Liu"
+  github           : "HaibinWu666"
   google_plus      :
   keybase          :
   instagram        :
