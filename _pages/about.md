@@ -27,7 +27,7 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 
 - **Physically Consistent Soft-Sensor Development Using Sequence-to-Sequence Neural Networks**<br/>
     Cheng-Hung Chou <sub>(co-first)</sub>, <u>Haibin Wu</u> <sub>(co-first)</sub>, Jia-Lin Kang, David Shan-Hill Wong, Yuan Yao, etc.<br/>
-    *In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020*<br/>
+    *IEEE Transactions on Industrial Informatics*<br/>
     [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
     
 - **Adversarial defense for automatic speaker verification by cascaded self-supervised learning models**<br/>
