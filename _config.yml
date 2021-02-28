@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Haibin Wu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student<br/>at Massachusetts Institute of Technology"
-  location         : "Taiwan"
+  bio              : "Ph.D. student<br/>at National Taiwan University"
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-bB-WHEAAAAJ&hl=zh-TW"
