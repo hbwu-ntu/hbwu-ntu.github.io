@@ -84,18 +84,6 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 # Teaching
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
-<!-- 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
--->
-<!-- 
-# Talks
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) , *CVPR, CA, USA, June 2019*
-- [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
--->
 
 # Honers
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2020</i></span></p>
