@@ -81,17 +81,25 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
     [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
 
-# Teaching
-
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
-
 # Honers
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2018</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship(nomination)</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2016</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">First-class scholarship</span> <span style="flex:  0 0 auto"><i>HNU 2015</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Student Cadre</span> <span style="flex:  0 0 auto"><i>HNU 2015</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship(nomination)</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2015</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Student</span> <span style="flex:  0 0 auto"><i>HNU 2014</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2014</i></span></p>
+
+# Teaching
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
+
+# Research Experience
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student of SIGS Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - Present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern of Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - Present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant of National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2017 - Jan. 2021</i></span></p>
 
 # Projects
 
