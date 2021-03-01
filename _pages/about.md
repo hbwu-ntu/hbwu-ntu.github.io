@@ -13,7 +13,9 @@ redirect_from:
 
 Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Institute of Communication Engineering (GICE) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification. I also like photography very much (please see my [homepage](https://www.mepai.me/frankwu)).
 
+<!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
+-->
 <!-- 
 / [Talks](#Talks) 
 -->
@@ -55,8 +57,8 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 
 - **Simplified Granger causality map for data-driven root cause diagnosis of process disturbances**<br/>
     Y Liu, HS Chen, <u>Haibin Wu</u>, Y Dai, Y Yao, Z Yan<br/>
-    *In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*<br/>
-    [ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.pdf) | [oral](https://www.youtube.com/watch?v=BQZ5xKd5kis&t=4717s) | [supplementary](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Towards_Scene_Understanding_Unsupervised_Monocular_Depth_Estimation_With_Semantic-Aware_Representation_CVPR_2019_paper.html) ]
+    *Journal of Process Control*<br/>
+    [ [pdf](https://www.sciencedirect.com/science/article/pii/S0959152420302912)]
     
 - **Adversarial attacks on spoofing countermeasures of automatic speaker verification**<br/>
     S Liu, <u>H Wu</u>, H Lee, H Meng<br/>
@@ -81,12 +83,13 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 
 # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/DSP2018Autumn/">Fundamentals of Speech Signal Processing</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Fall 2018 & Spring 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
+<!-- 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Deep Learning for Human Language Processing</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Fall 2018</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html">Machine Learning and having it Deep and Structured</a></span> <span style="flex:  0 0 auto"><i>NTU EE, Spring 2018</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Deep Learning for Computer Vision</a></span> <span style="flex:  0 0 auto"><i>NTU GICE, Fall 2018</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="">Advanced Deep Learning</a></span> <span style="flex:  0 0 auto"><i>NTU CSIE, Spring 2018</i></span></p>
-
+-->
 <!-- 
 # Talks
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation](http://aliensunmin.github.io/aii_workshop/3rd/) , *3rd AII workshop, New Taipei, Taiwan, July 2019*
@@ -94,16 +97,13 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 - [Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation]() , *Yahoo! Inc., Taipei, Taiwan, May 2019*
 -->
 
-# Honors
-
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Verizon Media AI Scholarship</span> <span style="flex:  0 0 auto"><i>Verizon Media, Taiwan 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Best Student Speaker Award</span> <span style="flex:  0 0 auto"><i>3rd AII Workshop 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">1st Price, Formosa Spoken QA Challenge</span> <span style="flex:  0 0 auto"><i>Ministry of Science and Technology, Taiwan 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Teaching Assistant Award</span> <span style="flex:  0 0 auto"><i>NTU CSIE Dept. 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Technology Scholarship</span> <span style="flex:  0 0 auto"><i>Foxconn Education Foundation 2019</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Presidential Awards</span> <span style="flex:  0 0 auto"><i>NTU CSIE 2017/2018</i></span></p>
-
+# Honers
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2020</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2019</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2018</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship(nomination)</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2016</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship(nomination)</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2015</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2014</i></span></p>
 
 # Projects
 
