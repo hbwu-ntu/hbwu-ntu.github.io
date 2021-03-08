@@ -70,14 +70,14 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
     *DDCLS 2019*<br/>
     [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8908933) ]
     
-- **Hyperparameter Tricks in Multi-Agent Reinforcement Learning: An Empirical Study**<br/>
+- **RIIT: Rethinking the Importance of Implementation Tricks in Multi-Agent Reinforcement Learning**<br/>
     J Hu, <u>H Wu</u>, SA Harding, S Liao<br/>
     *Under review. Submitted to UAI.*<br/>
     [ [pdf](https://arxiv.org/pdf/2102.03479.pdf) ]
 
-- **Hyperparameter Tricks in Multi-Agent Reinforcement Learning: An Empirical Study**<br/>
+- **QR-MIX: Distributional Value Function Factorisation for Cooperative Multi-Agent Reinforcement Learning**<br/>
     Jian Hu, Seth Austin Harding, <u>Haibin Wu</u>, Siyue Hu, Shih-wei Liao<br/>
-    *Under review. Submitted to AAMAS.*<br/>
+    *Preprint. *<br/>
     [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
 
