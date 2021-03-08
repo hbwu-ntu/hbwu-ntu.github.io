@@ -98,7 +98,11 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 
 # Research Experience
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - Present</i></span></p>
+
+<!-- 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - Present</i></span></p>
+-->
+
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2017 - Jan. 2021</i></span></p>
 
 # Projects
