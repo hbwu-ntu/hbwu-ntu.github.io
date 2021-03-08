@@ -77,7 +77,7 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the Graduate Ins
 
 - **QR-MIX: Distributional Value Function Factorisation for Cooperative Multi-Agent Reinforcement Learning**<br/>
     Jian Hu, Seth Austin Harding, <u>Haibin Wu</u>, Siyue Hu, Shih-wei Liao<br/>
-    *Preprint. *<br/>
+    *Preprint.*<br/>
     [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
 
