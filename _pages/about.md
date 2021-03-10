@@ -97,7 +97,7 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the college of E
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
 
 # Research Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - Present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS of Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - Present</i></span></p>
 
 <!-- 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - Present</i></span></p>
