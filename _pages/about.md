@@ -32,6 +32,16 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the college of E
     *IEEE Transactions on Industrial Informatics*<br/>
     [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
     
+- **Voting for the right answer: Adversarial defense for speaker verification**<br/>
+    <u>Haibin Wu</u>, Yang Zhang, Zhiyong Wu, Dong Wang, Hung-yi Lee<br/>
+    *Interspeech 2021*<br/>
+    [ [pdf](https://arxiv.org/abs/2106.07868) | [Github](https://github.com/thuhcsi/adsv_voting)]
+    
+- **Spotting adversarial samples for speaker verification by neural vocoders**<br/>
+    <u>Haibin Wu</u>, Po-chun Hsu, Ji Gao, Shanshan Zhang, Shen Huang, Jian Kang, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
+    *ASRU 2021 (under review)*<br/>
+    [ [pdf](https://arxiv.org/abs/2107.00309) | [Github](https://github.com/HaibinWu666/spot-adv-by-vocoder)]
+    
 - **Adversarial defense for automatic speaker verification by cascaded self-supervised learning models**<br/>
     <u>Haibin Wu</u>, Xu Li, Andy T. Liu, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
     *ICASSP 2021*<br/>
