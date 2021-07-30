@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification. By the way, I also like photography very much (please see my [homepage](https://www.mepai.me/frankwu)).
+Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification. By the way, I also like photography very much (please see my [homepage](https://www.mepai.me/frankwu)).
 
 <!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
@@ -51,13 +51,6 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the college of E
     <u>Haibin Wu</u>, AT Liu, H Lee<br/>
     *Interspeech 2020*<br/>
     [ [pdf](https://arxiv.org/pdf/2006.03214.pdf) | [presentation](https://www.youtube.com/watch?v=k81atCYWpzg&t=666s) ]
-
-<!-- 
-- **End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Layer-wise Transfer Learning**<br/>
-    Heng-Jui Chang, <u>Alexander H. Liu</u>, Hung-yi Lee, Lin-shan Lee<br/>
-    *SLT 2021*<br/>
-    [ [pdf](https://arxiv.org/abs/2005.01972) ]
--->
 
 - **Defense against adversarial attacks on spoofing countermeasures of ASV**<br/>
     <u>Haibin Wu</u>, Songxiang Liu, Helen Meng, Hung-yi Lee<br/>
@@ -107,11 +100,14 @@ Hi! I'm Haibin Wu. I am currently a first-year Ph.D. student at the college of E
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
 
 # Research Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS of Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - Present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at the Chinese University of Hong Kong</span> <span style="flex:  0 0 auto"><i>May 2021 - present</i></span></p>
 
-<!-- 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - Present</i></span></p>
--->
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS of Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - May 2021</i></span></p>
+
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - May 2021</i></span></p>
+
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2017 - Jan. 2021</i></span></p>
 
