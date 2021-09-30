@@ -31,7 +31,7 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
     Cheng-Hung Chou <sub>(co-first)</sub>, <u>Haibin Wu</u> <sub>(co-first)</sub>, Jia-Lin Kang, David Shan-Hill Wong, Yuan Yao, etc.<br/>
     *IEEE Transactions on Industrial Informatics*<br/>
     [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
-    
+ 
 - **Voting for the right answer: Adversarial defense for speaker verification**<br/>
     <u>Haibin Wu</u>, Yang Zhang, Zhiyong Wu, Dong Wang, Hung-yi Lee<br/>
     *Interspeech 2021*<br/>
@@ -75,7 +75,7 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
     
 - **RIIT: Rethinking the Importance of Implementation Tricks in Multi-Agent Reinforcement Learning**<br/>
     J Hu, <u>H Wu</u>, SA Harding, S Liao<br/>
-    *Under review. Submitted to UAI.*<br/>
+    *Preprint.*<br/>
     [ [pdf](https://arxiv.org/pdf/2102.03479.pdf) ]
 
 - **QR-MIX: Distributional Value Function Factorisation for Cooperative Multi-Agent Reinforcement Learning**<br/>
@@ -85,6 +85,7 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
 
 
 # Honers
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google PHD Fellowship</span> <span style="flex:  0 0 auto"><i>Google 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2018</i></span></p>
