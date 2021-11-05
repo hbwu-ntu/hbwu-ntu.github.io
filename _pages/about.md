@@ -110,7 +110,7 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - May 2021</i></span></p>
 
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2017 - Mar. 2019</i></span></p>
+<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2018 - Mar. 2019</i></span></p> -->
 
 <!-- # Projects
 
