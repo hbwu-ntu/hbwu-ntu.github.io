@@ -21,26 +21,32 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
 -->
 
 # Publications
+    
+- **Partially Fake Audio Detection by Self-Attention-Based Fake Span Discovery**<br/>
+    <u>Haibin Wu</u>, Heng-Cheng Kuo, Naijun Zheng, Kuo-Hsuan Hung, Hung-Yi Lee, Yu Tsao, Hsin-Min Wang, Helen Meng<br/>
+    *ICASSP 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2202.06684)]
 
-- **Multiview Learning for Subsurface Defect Detection in Composite Products: A Challenge on Thermographic Data Analysis**<br/>
-    <u>Haibin Wu</u>, K Zheng, S Sfarra, Y Liu, Y Yao<br/>
-    *IEEE Transactions on Industrial Informatics*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949715) ]
+- **Spotting adversarial samples for speaker verification by neural vocoders**<br/>
+    <u>Haibin Wu</u>, Po-chun Hsu, Ji Gao, Shanshan Zhang, Shen Huang, Jian Kang, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
+    *ICASSP 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2107.00309) | [Github](https://github.com/HaibinWu666/spot-adv-by-vocoder)]
+    
+- **Characterizing the adversarial vulnerability of speech self-supervised learning**<br/>
+    <u>Haibin Wu</u>, Bo Zheng, Xu Li, Xixin Wu, Hung-yi Lee, Helen Meng<br/>
+    *ICASSP 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2111.04330)]
 
-- **Physically Consistent Soft-Sensor Development Using Sequence-to-Sequence Neural Networks**<br/>
-    Cheng-Hung Chou <sub>(co-first)</sub>, <u>Haibin Wu</u> <sub>(co-first)</sub>, Jia-Lin Kang, David Shan-Hill Wong, Yuan Yao, etc.<br/>
-    *IEEE Transactions on Industrial Informatics*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
+- **The CUHK-TENCENT speaker diarization system for the ICASSP 2022 multi-channel multi-party meeting transcription challenge**<br/>
+    Naijun Zheng, Na Li, Xixin Wu, Lingwei Meng, Jiawen Kang, <u>Haibin Wu</u>, Chao Weng, Dan Su, Helen Meng<br/>
+    *ICASSP 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2202.01986)]
  
 - **Voting for the right answer: Adversarial defense for speaker verification**<br/>
     <u>Haibin Wu</u>, Yang Zhang, Zhiyong Wu, Dong Wang, Hung-yi Lee<br/>
     *Interspeech 2021*<br/>
     [ [pdf](https://arxiv.org/abs/2106.07868) | [Github](https://github.com/thuhcsi/adsv_voting)]
     
-- **Spotting adversarial samples for speaker verification by neural vocoders**<br/>
-    <u>Haibin Wu</u>, Po-chun Hsu, Ji Gao, Shanshan Zhang, Shen Huang, Jian Kang, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
-    *ASRU 2021 (under review)*<br/>
-    [ [pdf](https://arxiv.org/abs/2107.00309) | [Github](https://github.com/HaibinWu666/spot-adv-by-vocoder)]
     
 - **Adversarial defense for automatic speaker verification by cascaded self-supervised learning models**<br/>
     <u>Haibin Wu</u>, Xu Li, Andy T. Liu, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
@@ -67,6 +73,16 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
     S Liu, <u>H Wu</u>, H Lee, H Meng<br/>
     *ASRU 2019*<br/>
     [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003763) ]
+
+- **Multiview Learning for Subsurface Defect Detection in Composite Products: A Challenge on Thermographic Data Analysis**<br/>
+    <u>Haibin Wu</u>, K Zheng, S Sfarra, Y Liu, Y Yao<br/>
+    *IEEE Transactions on Industrial Informatics*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949715) ]
+
+- **Physically Consistent Soft-Sensor Development Using Sequence-to-Sequence Neural Networks**<br/>
+    Cheng-Hung Chou <sub>(co-first)</sub>, <u>Haibin Wu</u> <sub>(co-first)</sub>, Jia-Lin Kang, David Shan-Hill Wong, Yuan Yao, etc.<br/>
+    *IEEE Transactions on Industrial Informatics*<br/>
+    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
     
 - **Process Monitoring Using a Sequence to Sequence Model**<br/>
     <u>H Wu</u>, CH Chou, Y Yao, DSH Wong, Y Liu<br/>
@@ -83,6 +99,19 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
     *Preprint.*<br/>
     [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
+# Research Experience
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2022 - present</i></span></p>
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at the Chinese University of Hong Kong</span> <span style="flex:  0 0 auto"><i>May 2021 - April 2022</i></span></p>
+
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS of Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - May 2021</i></span></p>
+
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - May 2021</i></span></p>
+
+
+<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2018 - Mar. 2019</i></span></p> -->
 
 # Honers
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google PHD Fellowship</span> <span style="flex:  0 0 auto"><i>Google 2021</i></span></p>
@@ -100,17 +129,6 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
 
-# Research Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at the Chinese University of Hong Kong</span> <span style="flex:  0 0 auto"><i>May 2021 - present</i></span></p>
-
-
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS of Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - May 2021</i></span></p>
-
-
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - May 2021</i></span></p>
-
-
-<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2018 - Mar. 2019</i></span></p> -->
 
 <!-- # Projects
 
