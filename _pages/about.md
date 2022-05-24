@@ -114,8 +114,8 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2018 - Mar. 2019</i></span></p> -->
 
 # Challenge
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 ICASSP ADD challenge track 2](http://addchallenge.cn/add2022)</span> <span style="flex:  0 0 auto"><i>2/33</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 ICASSP M2MeT challenge track 1](https://www.alibabacloud.com/m2met-alimeeting)</span> <span style="flex:  0 0 auto"><i>2/14</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2022 ICASSP ADD challenge track 2 </span> <span style="flex:  0 0 auto"><i>2/33</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2022 ICASSP M2MeT challenge track 1</span> <span style="flex:  0 0 auto"><i>2/14</i></span></p>
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 Interspeech SASV challenge](https://sasv-challenge.github.io/)</span> <span style="flex:  0 0 auto"><i>8/23</i></span></p> -->
 
 # Honers
