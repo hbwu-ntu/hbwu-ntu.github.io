@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on adversarial attack and defense algorithms for automatic speaker verification. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I also like photography very much (please see my [homepage](https://www.mepai.me/frankwu)).
+Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on spoofing attack and defense for automatic speaker verification. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I also like photography very much (please see my [homepage](https://www.mepai.me/frankwu)).
 
 <!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
@@ -113,8 +113,10 @@ Hi! I'm Haibin Wu. I am currently a second-year Ph.D. student at the college of 
 
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2018 - Mar. 2019</i></span></p> -->
 
-<!-- # Challenge
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">2022 ICASSP ADD challenge</span> <span style="flex:  0 0 auto"><i>2/23</i></span></p> -->
+# Challenge
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 ICASSP ADD challenge track 2](http://addchallenge.cn/add2022)</span> <span style="flex:  0 0 auto"><i>2/33</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 ICASSP M2MeT challenge track 1](https://www.alibabacloud.com/m2met-alimeeting)</span> <span style="flex:  0 0 auto"><i>2/14</i></span></p>
+<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 Interspeech SASV challenge](https://sasv-challenge.github.io/)</span> <span style="flex:  0 0 auto"><i>8/23</i></span></p> -->
 
 # Honers
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google PHD Fellowship</span> <span style="flex:  0 0 auto"><i>Google 2021</i></span></p>
