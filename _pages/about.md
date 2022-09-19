@@ -100,7 +100,9 @@ Hi! I'm Haibin Wu. I am currently a third-year Ph.D. student at the college of E
     [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
 # Research Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2022 - present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Amazon</span> <span style="flex:  0 0 auto"><i>Sep 2022 - present</i></span></p>
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2022 - Aug 2022</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at the Chinese University of Hong Kong</span> <span style="flex:  0 0 auto"><i>May 2021 - April 2022</i></span></p>
 
