@@ -119,6 +119,8 @@ Hi! I'm Haibin Wu. I am currently a third-year Ph.D. student at the college of E
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 Interspeech SASV challenge](https://sasv-challenge.github.io/)</span> <span style="flex:  0 0 auto"><i>8/23</i></span></p> -->
 
 # Honers
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Interspeech travel grant</span> <span style="flex:  0 0 auto"><i>Interspeech 2022</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Appier Scholarship</span> <span style="flex:  0 0 auto"><i>Appier 2022</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google PHD Fellowship</span> <span style="flex:  0 0 auto"><i>Google 2021</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2019</i></span></p>
