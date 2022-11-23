@@ -137,11 +137,6 @@ I am now looking for full-time and internship jobs. If you have openings, please
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Advanced Speech Technologies Scholarship</span> <span style="flex:  0 0 auto"><i>NTU EECS 2020</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2019</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2018</i></span></p>
-<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship(nomination)</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2016</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">First-class scholarship</span> <span style="flex:  0 0 auto"><i>HNU 2015</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Student Cadre</span> <span style="flex:  0 0 auto"><i>HNU 2015</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship(nomination)</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2015</i></span></p> -->
-<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Excellent Student</span> <span style="flex:  0 0 auto"><i>HNU 2014</i></span></p> -->
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2014</i></span></p>
 
 # Teaching
