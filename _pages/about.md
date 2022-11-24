@@ -30,6 +30,7 @@ I am now looking for full-time and internship jobs. If you have openings, please
 
 - **SUPERB @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning**<br/>
     *SLT 2023*<br/>
+    Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, Tzu-Quan Lin, Jiatong Shi, Kai-Wei Chang, Zili Huang, <u>Haibin Wu</u>, etc.<br/>
     [ [pdf](https://arxiv.org/abs/2210.08634)]
 
 - **Spoofing-Aware Speaker Verification by Multi-Level Fusion**<br/>
