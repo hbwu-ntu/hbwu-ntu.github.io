@@ -32,6 +32,21 @@ I am now looking for full-time and internship jobs. If you have openings, please
     *SLT 2023*<br/>
     [ [pdf](https://arxiv.org/abs/2210.08634)]
 
+- **Spoofing-Aware Speaker Verification by Multi-Level Fusion**<br/>
+    <u>Haibin Wu</u>, Lingwei Meng, Jiawen Kang, etc.<br/>
+    *Interspeech 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2203.15377)]
+
+- **MFA-Conformer: Multi-scale Feature Aggregation Conformer for Automatic Speaker Verification**<br/>
+    Yang Zhang, Zhiqiang Lv, <u>Haibin Wu</u>, etc.<br/>
+    *Interspeech 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2203.15249)]
+
+- **Tackling Spoofing-Aware Speaker Verification with Multi-Model Fusion**<br/>
+    <u>Haibin Wu</u>,  Jiawen Kang, Lingwei Meng, etc.<br/>
+    *Odyssey 2022*<br/>
+    [ [pdf](https://arxiv.org/abs/2203.15249)]
+   
 - **Partially Fake Audio Detection by Self-Attention-Based Fake Span Discovery**<br/>
     <u>Haibin Wu</u>, Heng-Cheng Kuo, Naijun Zheng, Kuo-Hsuan Hung, Hung-Yi Lee, Yu Tsao, Hsin-Min Wang, Helen Meng<br/>
     *ICASSP 2022*<br/>
