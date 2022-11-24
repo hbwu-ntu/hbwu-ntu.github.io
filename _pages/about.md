@@ -28,7 +28,7 @@ I am now looking for full-time and internship jobs. If you have openings, please
     *SLT 2023*<br/>
     [ [pdf](https://arxiv.org/abs/2210.08634)]
 
-- **Partially Fake Audio Detection by Self-Attention-Based Fake Span Discovery**<br/>
+- **SUPERB @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning**<br/>
     *SLT 2023*<br/>
     [ [pdf](https://arxiv.org/abs/2210.08634)]
 
@@ -45,7 +45,7 @@ I am now looking for full-time and internship jobs. If you have openings, please
 - **Tackling Spoofing-Aware Speaker Verification with Multi-Model Fusion**<br/>
     <u>Haibin Wu</u>,  Jiawen Kang, Lingwei Meng, etc.<br/>
     *Odyssey 2022*<br/>
-    [ [pdf](https://arxiv.org/abs/2203.15249)]
+    [ [pdf](https://arxiv.org/abs/2206.09131)]
    
 - **Partially Fake Audio Detection by Self-Attention-Based Fake Span Discovery**<br/>
     <u>Haibin Wu</u>, Heng-Cheng Kuo, Naijun Zheng, Kuo-Hsuan Hung, Hung-Yi Lee, Yu Tsao, Hsin-Min Wang, Helen Meng<br/>
