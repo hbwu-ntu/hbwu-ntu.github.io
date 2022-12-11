@@ -26,7 +26,7 @@ I am now looking for full-time and internship jobs. If you have openings, please
 - **Push-Pull: Characterizing the Adversarial Robustness for Audio-Visual Active Speaker Detection**<br/>
     Xuanjun Chen, <u>Haibin Wu</u>, Helen Meng, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
     *SLT 2023*<br/>
-    [ [pdf](https://arxiv.org/abs/2210.08634)]
+    [ [pdf](https://arxiv.org/abs/2210.00753)]
 
 - **SUPERB @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning**<br/>
     *SLT 2023*<br/>
