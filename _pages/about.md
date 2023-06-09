@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a third-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on speaker verification and anti-spoofing. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 1.6k+ github stars.
+Hi! I'm Haibin Wu. I am currently a third-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on speaker verification and anti-spoofing. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 1.7k+ github stars.
 
 I am now looking for full-time and internship jobs. If you have openings, please contact me and I really appreciate it.
 
@@ -23,6 +23,23 @@ I am now looking for full-time and internship jobs. If you have openings, please
 -->
 
 # Publications
+- **SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**<br/>
+    <u>Haibin Wu</u>, Kai-Wei Chang, Yuan-Kuei Wu, Hung-yi Lee<br/>
+    *Preprint*<br/>
+    [ [pdf](https://arxiv.org/abs/2306.02207)]
+- **The defender's perspective on automatic speaker verification: An overview**<br/>
+    <u>Haibin Wu</u>, Jiawen Kang, Lingwei Meng, Helen Meng, Hung-yi Lee<br/>
+    *IJCAI DADA workshop 2023*<br/>
+    [ [pdf](https://arxiv.org/abs/2305.12804)]
+- **Rethinking complex-valued deep neural networks for monaural speech enhancement**<br/>
+    <u>Haibin Wu</u>, Ke Tan, Buye Xu, Anurag Kumar, Daniel Wong<br/>
+    *Interspeech 2023*<br/>
+    [ [pdf](https://arxiv.org/abs/2301.04320)]
+- **Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator**<br/>
+    Lingwei Meng, Jiawen Kang, Mingyu Cui, <u>Haibin Wu</u>, Xixin Wu, Helen Meng<br/>
+    *Interspeech 2023*<br/>
+    [ [pdf](https://arxiv.org/abs/2305.16263)]
+
 - **Push-Pull: Characterizing the Adversarial Robustness for Audio-Visual Active Speaker Detection**<br/>
     Xuanjun Chen, <u>Haibin Wu</u>, Helen Meng, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
     *SLT 2023*<br/>
@@ -126,7 +143,9 @@ I am now looking for full-time and internship jobs. If you have openings, please
     [ [pdf](https://arxiv.org/abs/2009.04197) ]
 
 # Research Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Applied scientist intern at Amazon</span> <span style="flex:  0 0 auto"><i>Sep 2022 - present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2023 - present</i></span></p>
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Applied scientist intern at Amazon</span> <span style="flex:  0 0 auto"><i>Sep 2022 - Dec 2022</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2022 - Aug 2022</i></span></p>
 
