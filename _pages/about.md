@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a third-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. I mainly work on speaker verification and anti-spoofing. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 1.7k+ github stars.
+Hi! I'm Haibin Wu. I am currently a third-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, speech LLMs, speech enhancement, and speaker verification, audio event classification, multimodal learning and model compression. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 1.7k+ github stars.
 
 I am now looking for full-time and internship jobs. If you have openings, please contact me and I really appreciate it.
 
