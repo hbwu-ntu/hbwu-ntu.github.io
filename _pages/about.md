@@ -22,38 +22,22 @@ I am now looking for full-time research scientist positions in the fields of spe
 / [Talks](#Talks) 
 -->
 
-# Publications
+# Selected Publications
+
 - **SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**<br/>
     <u>Haibin Wu</u>, Kai-Wei Chang, Yuan-Kuei Wu, Hung-yi Lee<br/>
     *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2306.02207)]
+
 - **The defender's perspective on automatic speaker verification: An overview**<br/>
     <u>Haibin Wu</u>, Jiawen Kang, Lingwei Meng, Helen Meng, Hung-yi Lee<br/>
     *IJCAI DADA workshop 2023*<br/>
     [ [pdf](https://arxiv.org/abs/2305.12804)]
+
 - **Rethinking complex-valued deep neural networks for monaural speech enhancement**<br/>
     <u>Haibin Wu</u>, Ke Tan, Buye Xu, Anurag Kumar, Daniel Wong<br/>
     *Interspeech 2023*<br/>
     [ [pdf](https://arxiv.org/abs/2301.04320)]
-- **Unified Modeling of Multi-Talker Overlapped Speech Recognition and Diarization with a Sidecar Separator**<br/>
-    Lingwei Meng, Jiawen Kang, Mingyu Cui, <u>Haibin Wu</u>, Xixin Wu, Helen Meng<br/>
-    *Interspeech 2023*<br/>
-    [ [pdf](https://arxiv.org/abs/2305.16263)]
-
-- **Push-Pull: Characterizing the Adversarial Robustness for Audio-Visual Active Speaker Detection**<br/>
-    Xuanjun Chen, <u>Haibin Wu</u>, Helen Meng, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
-    *SLT 2023*<br/>
-    [ [pdf](https://arxiv.org/abs/2210.00753)]
-
-- **SUPERB @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning**<br/>
-    *SLT 2023*<br/>
-    Tzu-hsun Feng, Annie Dong, Ching-Feng Yeh, Shu-wen Yang, Tzu-Quan Lin, Jiatong Shi, Kai-Wei Chang, Zili Huang, <u>Haibin Wu</u>, etc.<br/>
-    [ [pdf](https://arxiv.org/abs/2210.08634)]
-
-- **Spoofing-Aware Speaker Verification by Multi-Level Fusion**<br/>
-    <u>Haibin Wu</u>, Lingwei Meng, Jiawen Kang, etc.<br/>
-    *Interspeech 2022*<br/>
-    [ [pdf](https://arxiv.org/abs/2203.15377)]
 
 - **MFA-Conformer: Multi-scale Feature Aggregation Conformer for Automatic Speaker Verification**<br/>
     Yang Zhang, Zhiqiang Lv, <u>Haibin Wu</u>, etc.<br/>
@@ -64,7 +48,7 @@ I am now looking for full-time research scientist positions in the fields of spe
     <u>Haibin Wu</u>,  Jiawen Kang, Lingwei Meng, etc.<br/>
     *Odyssey 2022*<br/>
     [ [pdf](https://arxiv.org/abs/2206.09131)]
-   
+
 - **Partially Fake Audio Detection by Self-Attention-Based Fake Span Discovery**<br/>
     <u>Haibin Wu</u>, Heng-Cheng Kuo, Naijun Zheng, Kuo-Hsuan Hung, Hung-Yi Lee, Yu Tsao, Hsin-Min Wang, Helen Meng<br/>
     *ICASSP 2022*<br/>
@@ -74,23 +58,17 @@ I am now looking for full-time research scientist positions in the fields of spe
     <u>Haibin Wu</u>, Po-chun Hsu, Ji Gao, Shanshan Zhang, Shen Huang, Jian Kang, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
     *ICASSP 2022*<br/>
     [ [pdf](https://arxiv.org/abs/2107.00309) | [Github](https://github.com/HaibinWu666/spot-adv-by-vocoder) | [video](https://youtu.be/7jD6iCzSgCM)]
-    
+
 - **Characterizing the adversarial vulnerability of speech self-supervised learning**<br/>
     <u>Haibin Wu</u>, Bo Zheng, Xu Li, Xixin Wu, Hung-yi Lee, Helen Meng<br/>
     *ICASSP 2022*<br/>
     [ [pdf](https://arxiv.org/abs/2111.04330) | [video](https://youtu.be/H_YVgo7y048)]
 
-- **The CUHK-TENCENT speaker diarization system for the ICASSP 2022 multi-channel multi-party meeting transcription challenge**<br/>
-    Naijun Zheng, Na Li, Xixin Wu, Lingwei Meng, Jiawen Kang, <u>Haibin Wu</u>, Chao Weng, Dan Su, Helen Meng<br/>
-    *ICASSP 2022*<br/>
-    [ [pdf](https://arxiv.org/abs/2202.01986)]
- 
 - **Voting for the right answer: Adversarial defense for speaker verification**<br/>
     <u>Haibin Wu</u>, Yang Zhang, Zhiyong Wu, Dong Wang, Hung-yi Lee<br/>
     *Interspeech 2021*<br/>
     [ [pdf](https://arxiv.org/abs/2106.07868) | [Github](https://github.com/thuhcsi/adsv_voting)]
-    
-    
+
 - **Adversarial defense for automatic speaker verification by cascaded self-supervised learning models**<br/>
     <u>Haibin Wu</u>, Xu Li, Andy T. Liu, Zhiyong Wu, Helen Meng, Hung-yi Lee<br/>
     *ICASSP 2021*<br/>
@@ -100,17 +78,6 @@ I am now looking for full-time research scientist positions in the fields of spe
     <u>Haibin Wu</u>, AT Liu, H Lee<br/>
     *Interspeech 2020*<br/>
     [ [pdf](https://arxiv.org/pdf/2006.03214.pdf) | [video](https://www.youtube.com/watch?v=k81atCYWpzg&t=666s) ]
-
-- **Defense against adversarial attacks on spoofing countermeasures of ASV**<br/>
-    <u>Haibin Wu</u>, Songxiang Liu, Helen Meng, Hung-yi Lee<br/>
-    *ICASSP 2020*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053643) ]
-
-
-- **Simplified Granger causality map for data-driven root cause diagnosis of process disturbances**<br/>
-    Y Liu, HS Chen, <u>Haibin Wu</u>, Y Dai, Y Yao, Z Yan<br/>
-    *Journal of Process Control*<br/>
-    [ [pdf](https://www.sciencedirect.com/science/article/pii/S0959152420302912)]
     
 - **Adversarial attacks on spoofing countermeasures of automatic speaker verification**<br/>
     S Liu, <u>H Wu</u>, H Lee, H Meng<br/>
@@ -122,28 +89,10 @@ I am now looking for full-time research scientist positions in the fields of spe
     *IEEE Transactions on Industrial Informatics*<br/>
     [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949715) ]
 
-- **Physically Consistent Soft-Sensor Development Using Sequence-to-Sequence Neural Networks**<br/>
-    Cheng-Hung Chou <sub>(co-first)</sub>, <u>Haibin Wu</u> <sub>(co-first)</sub>, Jia-Lin Kang, David Shan-Hill Wong, Yuan Yao, etc.<br/>
-    *IEEE Transactions on Industrial Informatics*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894501) ]
-    
-- **Process Monitoring Using a Sequence to Sequence Model**<br/>
-    <u>H Wu</u>, CH Chou, Y Yao, DSH Wong, Y Liu<br/>
-    *DDCLS 2019*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8908933) ]
-    
-- **RIIT: Rethinking the Importance of Implementation Tricks in Multi-Agent Reinforcement Learning**<br/>
-    J Hu, <u>H Wu</u>, SA Harding, S Liao<br/>
-    *Preprint.*<br/>
-    [ [pdf](https://arxiv.org/pdf/2102.03479.pdf) ]
-
-- **QR-MIX: Distributional Value Function Factorisation for Cooperative Multi-Agent Reinforcement Learning**<br/>
-    Jian Hu, Seth Austin Harding, <u>Haibin Wu</u>, Siyue Hu, Shih-wei Liao<br/>
-    *Preprint.*<br/>
-    [ [pdf](https://arxiv.org/abs/2009.04197) ]
+For the complete list, please visit [google scholar](https://scholar.google.com.tw/citations?user=-bB-WHEAAAAJ&hl=zh-TW).
 
 # Research Experience
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2023 - present</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2023 - Sep 2023</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Applied scientist intern at Amazon</span> <span style="flex:  0 0 auto"><i>Sep 2022 - Dec 2022</i></span></p>
 
@@ -151,9 +100,7 @@ I am now looking for full-time research scientist positions in the fields of spe
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at the Chinese University of Hong Kong</span> <span style="flex:  0 0 auto"><i>May 2021 - April 2022</i></span></p>
 
-
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Visiting Student at SIGS of Tsinghua University</span> <span style="flex:  0 0 auto"><i>Aug. 2020 - May 2021</i></span></p>
-
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Intern at Tencent</span> <span style="flex:  0 0 auto"><i>Jan. 2021 - May 2021</i></span></p>
 
