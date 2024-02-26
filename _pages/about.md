@@ -107,6 +107,8 @@ I am now looking for full-time research scientist positions in the fields of spe
 For the complete list, please visit [google scholar](https://scholar.google.com.tw/citations?user=-bB-WHEAAAAJ&hl=zh-TW).
 
 # Research Experience
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Microsoft</span> <span style="flex:  0 0 auto"><i>Feb 2024 - Present</i></span></p>
+
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research scientist intern at Meta</span> <span style="flex:  0 0 auto"><i>May 2023 - Sep 2023</i></span></p>
 
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Applied scientist intern at Amazon</span> <span style="flex:  0 0 auto"><i>Sep 2022 - Dec 2022</i></span></p>
