@@ -11,9 +11,9 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu. I am currently a fourth-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, prompt engineer, speech LLMs, speech enhancement, and speaker verification, audio event classification, multimodal learning and model compression. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 2000+ github stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
+Hi! I'm Haibin Wu. I am currently a fourth-year Ph.D. student at the college of Electrical Engineering and Computer Science (EECS) at National Taiwan University (NTU). I am a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, prompt engineer, speech LLMs, speech enhancement, and speaker verification, audio event classification, multimodal learning and model compression. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 2000+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
 
-I am now looking for full-time research scientist positions in the fields of speech processing and machine learning. If you have any opportunities or recommendations in these areas, I would greatly appreciate your assistance.
+I am now looking for full-time research scientist positions in the fields of speech processing and machine learning. I would greatly appreciate your assistance if you have any opportunities or recommendations in these areas.
 
 <!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
@@ -23,6 +23,21 @@ I am now looking for full-time research scientist positions in the fields of spe
 -->
 
 # Selected Publications
+
+- **EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**<br/>
+    <u>Haibin Wu</u>, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-Yi Lee<br/>
+    *Preprint*<br/>
+    [ [pdf](https://arxiv.org/abs/2402.13018) | [Webpage](https://emosuperb.github.io/) | [Github](https://github.com/EMOsuperb/EMO-SUPERB-submission)]
+
+- **Codec-SUPERB: An In-Depth Analysis of Sound Codec Models**<br/>
+    <u>Haibin Wu</u>, Ho-Lam Chung, Yi-Cheng Lin, Yuan-Kuei Wu, Xuanjun Chen, Yu-Chi Pai, Hsiu-Hsuan Wang, Kai-Wei Chang, Alexander H. Liu, Hung-yi Lee<br/>
+    *Preprint*<br/>
+    [ [pdf](https://arxiv.org/abs/2402.13071) | [Github](https://github.com/voidful/Codec-SUPERB) | [Leaderboard](https://codecsuperb.com/) | [Huggingface](https://huggingface.co/Codec-SUPERB)]
+
+- **Towards audio language modeling - an overview**<br/>
+    <u>Haibin Wu</u>, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee<br/>
+    *Preprint*<br/>
+    [ [pdf](https://arxiv.org/abs/2402.13236)]
 
 - **SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**<br/>
     <u>Haibin Wu</u>, Kai-Wei Chang, Yuan-Kuei Wu, Hung-yi Lee<br/>
