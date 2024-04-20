@@ -130,6 +130,8 @@ For the complete list, please visit [google scholar](https://scholar.google.com.
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 Interspeech SASV challenge](https://sasv-challenge.github.io/)</span> <span style="flex:  0 0 auto"><i>8/23</i></span></p> -->
 
 # Honers
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google studnet travel grant</span> <span style="flex:  0 0 auto"><i>Google 2024</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">ICASSP travel grant</span> <span style="flex:  0 0 auto"><i>ICASSP 2024</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Interspeech travel grant</span> <span style="flex:  0 0 auto"><i>Interspeech 2022</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Appier Scholarship</span> <span style="flex:  0 0 auto"><i>Appier 2022</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google PHD Fellowship</span> <span style="flex:  0 0 auto"><i>Google 2021</i></span></p>
