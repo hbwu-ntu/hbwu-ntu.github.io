@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degree at National Taiwan University (NTU). I was a member of the Speech Processing Lab, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, neural audio codecs, prompt engineer, speech LLMs, speech enhancement, and speaker verification. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 2200+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
+Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I was a Ph.D. degree at National Taiwan University (NTU), working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, neural audio codecs, prompt engineer, speech LLMs, speech enhancement, and deepfake detection. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 2200+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
 
 <!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
@@ -115,9 +115,9 @@ For the complete list, please visit [google scholar](https://scholar.google.com.
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Research Assistant at National Tsinghua University</span> <span style="flex:  0 0 auto"><i>Sep. 2018 - Mar. 2019</i></span></p> -->
 
 # Challenge
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://addchallenge.cn/add2022">2022 ICASSP ADD challenge track 2</a> </span> <span style="flex:  0 0 auto"><i>2/33</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://www.alibabacloud.com/m2met-alimeeting">2022 ICASSP M2MeT challenge track 1</a> </span> <span style="flex:  0 0 auto"><i>2/14</i></span></p>
-<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 Interspeech SASV challenge](https://sasv-challenge.github.io/)</span> <span style="flex:  0 0 auto"><i>8/23</i></span></p> -->
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://addchallenge.cn/add2022">2022 ICASSP ADD challenge track 2</a> </span> <span style="flex:  0 0 auto"><i>Rank: 2/33</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://www.alibabacloud.com/m2met-alimeeting">2022 ICASSP M2MeT challenge track 1</a> </span> <span style="flex:  0 0 auto"><i>Rank: 2/14</i></span></p>
+<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">[2022 Interspeech SASV challenge](https://sasv-challenge.github.io/)</span> <span style="flex:  0 0 auto"><i>Rank: 8/23</i></span></p> -->
 
 # Honers
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Google studnet travel grant</span> <span style="flex:  0 0 auto"><i>Google 2024</i></span></p>
@@ -130,9 +130,9 @@ For the complete list, please visit [google scholar](https://scholar.google.com.
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Academic Achievement Award</span> <span style="flex:  0 0 auto"><i>NCTU EECS 2018</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">National Scholarship</span> <span style="flex:  0 0 auto"><i>Chinese Ministry of Education 2014</i></span></p>
 
-# Teaching
+<!-- # Teaching
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of <a href="https://www.youtube.com/watch?v=Ye018rCVvOo&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J/">Machine Learning</a></span> <span style="flex:  0 0 auto"><i>NTU EECS, Spring 2021</i></span></p> -->
 
 
 <!-- # Projects
