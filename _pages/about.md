@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got a Ph.D. degree at National Taiwan University, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, neural audio codecs, prompt engineer, speech LLMs, speech enhancement, and deepfake detection. By the way. I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) v0.4.0 with 2200+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
+Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degree at National Taiwan University, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, neural audio codecs, prompt engineer, speech LLMs, speech enhancement, and deepfake detection. By the way, I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) with 2400+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
 
 <!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
@@ -22,9 +22,13 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got a Ph.D. degree
 
 # Selected Publications
 
+- **On The Landscape of Spoken Language Models: A Comprehensive Survey**<br/>
+    <u>Haibin Wu*</u>, Kai-Wei Chang*, Siddhant Arora*, Chung-Ming Chien*, Yifan Peng*, Yossi Adi†, Emmanuel Dupoux†, Hung-Yi Lee†, Karen Livescu†, Shinji Watanabe†<br/>
+    [ [pdf](https://arxiv.org/pdf/2504.08528)]
+
 - **TS3-Codec: Transformer-Based Simple Streaming Single Codec**<br/>
     <u>Haibin Wu</u>, Naoyuki Kanda, Sefik Emre Eskimez, Jinyu Li<br/>
-    *Priprint*<br/>
+    *Interspeech 2025*<br/>
     [ [pdf](https://arxiv.org/abs/2411.18803)]
 
 - **Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**<br/>
@@ -34,13 +38,8 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got a Ph.D. degree
 
 - **Ultra-Low Latency Speech Enhancement - A Comprehensive Study**<br/>
     <u>Haibin Wu</u>, Sebastian Braun<br/>
-    *Preprint*<br/>
+    *ICASSP 2025*<br/>
     [ [pdf](https://arxiv.org/abs/2406.07237)]
-
-- **SpeechPrompt: Prompting Speech Language Models for Speech Processing Tasks**<br/>
-    Kai-Wei Chang, <u>Haibin Wu</u>, Yu-Kai Wang, Yuan-Kuei Wu, Hua Shen, Wei-Cheng Tseng, Iu-thing Kang, Shang-Wen Li, Hung-yi Lee<br/>
-    *TASLP*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/abstract/document/10620644) | [Webpage](https://kwchang.org/SpeechPrompt/) | [Github](https://github.com/ga642381/SpeechPrompt)]
 
 - **Codec-SUPERB: An In-Depth Analysis of Sound Codec Models**<br/>
     <u>Haibin Wu</u>, Ho-Lam Chung, Yi-Cheng Lin, Yuan-Kuei Wu, Xuanjun Chen, Yu-Chi Pai, Hsiu-Hsuan Wang, Kai-Wei Chang, Alexander H. Liu, Hung-yi Lee<br/>
@@ -52,30 +51,18 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got a Ph.D. degree
     *Interspeech 2024*<br/>
     [ [pdf](https://arxiv.org/abs/2409.10358) | [Webpage](https://github.com/roger-tseng/CodecFake)]
 
-- **Singing Voice Graph Modeling for SingFake Detection**<br/>
-    Xuanjun Chen, <u>Haibin Wu</u>, Jyh-Shing Roger Jang, Hung-yi Lee <br/>
-    *Interspeech 2024*<br/>
-    [ [pdf](https://arxiv.org/abs/2406.03111) | [GitHub](https://github.com/xjchenGit/SingGraph)]
-
 - **EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**<br/>
     <u>Haibin Wu</u>, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-Yi Lee<br/>
-    *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2402.13018) | [Webpage](https://emosuperb.github.io/) | [Github](https://github.com/EMOsuperb/EMO-SUPERB-submission)]
 
 - **Towards audio language modeling - an overview**<br/>
     <u>Haibin Wu</u>, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee<br/>
-    *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2402.13236)]
 
 - **SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**<br/>
     <u>Haibin Wu</u>, Kai-Wei Chang, Yuan-Kuei Wu, Hung-yi Lee<br/>
     *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2306.02207) | [Webpage](https://kwchang.org/SpeechPrompt/) | [Github](https://github.com/ga642381/SpeechPrompt)]
-
-- **The defender's perspective on automatic speaker verification: An overview**<br/>
-    <u>Haibin Wu</u>, Jiawen Kang, Lingwei Meng, Helen Meng, Hung-yi Lee<br/>
-    *IJCAI DADA workshop 2023*<br/>
-    [ [pdf](https://arxiv.org/abs/2305.12804)]
 
 - **Rethinking complex-valued deep neural networks for monaural speech enhancement**<br/>
     <u>Haibin Wu</u>, Ke Tan, Buye Xu, Anurag Kumar, Daniel Wong<br/>
@@ -86,11 +73,6 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got a Ph.D. degree
     <u>Haibin Wu</u>, Heng-Cheng Kuo, Naijun Zheng, Kuo-Hsuan Hung, Hung-Yi Lee, Yu Tsao, Hsin-Min Wang, Helen Meng<br/>
     *ICASSP 2022*<br/>
     [ [pdf](https://arxiv.org/abs/2202.06684) | [video](https://www.youtube.com/watch?v=owPPvwN_Rfc)]
-
-- **Adversarial attacks on spoofing countermeasures of automatic speaker verification**<br/>
-    S Liu, <u>H Wu</u>, H Lee, H Meng<br/>
-    *ASRU 2019*<br/>
-    [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003763) ]
 
 For the complete list, please visit [google scholar](https://scholar.google.com.tw/citations?user=-bB-WHEAAAAJ&hl=zh-TW).
 
