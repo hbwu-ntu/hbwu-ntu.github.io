@@ -23,7 +23,7 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degre
 # Selected Publications
 
 - **On The Landscape of Spoken Language Models: A Comprehensive Survey**<br/>
-    <u>Haibin Wu*</u>, Kai-Wei Chang*, Siddhant Arora*, Chung-Ming Chien*, Yifan Peng*, Yossi Adi†, Emmanuel Dupoux†, Hung-Yi Lee†, Karen Livescu†, Shinji Watanabe†<br/>
+    <u>Haibin Wu*</u>, Siddhant Arora*, Kai-Wei Chang*, Chung-Ming Chien*, Yifan Peng*, Yossi Adi†, Emmanuel Dupoux†, Hung-Yi Lee†, Karen Livescu†, Shinji Watanabe†<br/>
     [ [pdf](https://arxiv.org/pdf/2504.08528)]
 
 - **TS3-Codec: Transformer-Based Simple Streaming Single Codec**<br/>
