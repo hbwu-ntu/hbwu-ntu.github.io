@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degree at National Taiwan University, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech foundation models, neural audio codecs, prompt engineer, speech LLMs, speech enhancement, and deepfake detection. By the way, I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) with 2400+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
+Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degree at National Taiwan University, working with Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the area of machine learning and speech processing. My expertise lies in speech language models, speech generation, neural audio codecs, speech enhancement, and deepfake detection. By the way, I was fortunate enough to be funded by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). I'm a main contributor for [S3PRL](https://github.com/s3prl/s3prl) with 2400+ GitHub stars. I have a keen interest in photography, and you can find my portfolio on my [homepage](https://www.mipai.com.cn/frankwu).
 
 <!-- 
 [Publications](#publications) / [Teaching](#teaching) / [Honors](#honors) / [Side Projects](#projects) / [CV](files/cv.pdf)
@@ -22,8 +22,16 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degre
 
 # Selected Publications
 
+- **Towards Efficient Speech-Text Jointly Decoding within One Speech Language Model**<br/>
+    <u>Haibin Wu†</u>, Yuxuan Hu†, Ruchao Fan, Xiaofei Wang, Kenichi Kumatani, Bo Ren, Jianwei Yu, Heng Lu, Lijuan Wang, Yao Qian, Jinyu Li<br/>
+    [ [pdf](https://arxiv.org/pdf/2506.04518)]
+
+- **Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**<br/>
+    <u>Haibin Wu†</u>, Yuxuan Hu†, Ruchao Fan, Xiaofei Wang, Heng Lu, Yao Qian, Jinyu Li<br/>
+    [ [pdf](https://arxiv.org/pdf/2506.04392)]
+
 - **On The Landscape of Spoken Language Models: A Comprehensive Survey**<br/>
-    <u>Haibin Wu*</u>, Siddhant Arora*, Kai-Wei Chang*, Chung-Ming Chien*, Yifan Peng*, Yossi Adi†, Emmanuel Dupoux†, Hung-Yi Lee†, Karen Livescu†, Shinji Watanabe†<br/>
+    <u>Haibin Wu†</u>, Siddhant Arora†, Kai-Wei Chang†, Chung-Ming Chien†, Yifan Peng†, Yossi Adi, Emmanuel Dupoux, Hung-Yi Lee, Karen Livescu, Shinji Watanabe<br/>
     [ [pdf](https://arxiv.org/pdf/2504.08528)]
 
 - **TS3-Codec: Transformer-Based Simple Streaming Single Codec**<br/>
@@ -51,28 +59,14 @@ Hi! I'm Haibin Wu, a senior applied scientist at Microsoft. I got my Ph.D. degre
     *Interspeech 2024*<br/>
     [ [pdf](https://arxiv.org/abs/2409.10358) | [Webpage](https://github.com/roger-tseng/CodecFake)]
 
-- **EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**<br/>
-    <u>Haibin Wu</u>, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-Yi Lee<br/>
-    [ [pdf](https://arxiv.org/abs/2402.13018) | [Webpage](https://emosuperb.github.io/) | [Github](https://github.com/EMOsuperb/EMO-SUPERB-submission)]
-
-- **Towards audio language modeling - an overview**<br/>
-    <u>Haibin Wu</u>, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee<br/>
-    [ [pdf](https://arxiv.org/abs/2402.13236)]
-
 - **SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts**<br/>
     <u>Haibin Wu</u>, Kai-Wei Chang, Yuan-Kuei Wu, Hung-yi Lee<br/>
-    *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2306.02207) | [Webpage](https://kwchang.org/SpeechPrompt/) | [Github](https://github.com/ga642381/SpeechPrompt)]
 
 - **Rethinking complex-valued deep neural networks for monaural speech enhancement**<br/>
     <u>Haibin Wu</u>, Ke Tan, Buye Xu, Anurag Kumar, Daniel Wong<br/>
     *Interspeech 2023*<br/>
     [ [pdf](https://arxiv.org/abs/2301.04320)]
-
-- **Partially Fake Audio Detection by Self-Attention-Based Fake Span Discovery**<br/>
-    <u>Haibin Wu</u>, Heng-Cheng Kuo, Naijun Zheng, Kuo-Hsuan Hung, Hung-Yi Lee, Yu Tsao, Hsin-Min Wang, Helen Meng<br/>
-    *ICASSP 2022*<br/>
-    [ [pdf](https://arxiv.org/abs/2202.06684) | [video](https://www.youtube.com/watch?v=owPPvwN_Rfc)]
 
 For the complete list, please visit [google scholar](https://scholar.google.com.tw/citations?user=-bB-WHEAAAAJ&hl=zh-TW).
 
